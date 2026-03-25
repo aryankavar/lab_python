@@ -1,0 +1,5 @@
+f = open("file_handeling/one.txt", "w")
+f.write("I'm Kavar Aryan\n")
+f.write("Student of BScIT At Atmiya University\n")
+f.write("I'm From Morbi\n")
+f.close()
